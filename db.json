@@ -1,0 +1,58 @@
+{
+  "New York": {
+    "temperature": {
+      "current": 18,
+      "min": 15,
+      "max": 21,
+      "unit": "°C"
+    },
+    "humidity": 65,
+    "wind": {
+      "speed": 8,
+      "direction": "N",
+      "unit": "km/h"
+    }
+  },
+  "London": {
+    "temperature": {
+      "current": 25,
+      "min": 10,
+      "max": 25,
+      "unit": "°C"
+    },
+    "humidity": 39,
+    "wind": {
+      "speed": 12,
+      "direction": "N",
+      "unit": "km/h"
+    }
+  },
+  "Los Angeles": {
+    "temperature": {
+      "current": 13,
+      "min": 8,
+      "max": 15,
+      "unit": "°C"
+    },
+    "humidity": 30,
+    "wind": {
+      "speed": 10,
+      "direction": "N",
+      "unit": "km/h"
+    }
+  },
+  "Manila": {
+    "temperature": {
+      "current": 38,
+      "min": 32,
+      "max": 40,
+      "unit": "°C"
+    },
+    "humidity": 50,
+    "wind": {
+      "speed": 2,
+      "direction": "E",
+      "unit": "km/h"
+    }
+  }
+}
